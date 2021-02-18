@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraRadio</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplica_o">Multiplicação</string>
+    <string name="divis_o">Divisão</string>
+    <string name="op_es">Opções</string>
+    <string name="valor1">Valor1</string>
+    <string name="valor2">Valor2</string>
+    <string name="executar">Executar</string>
+</resources>
